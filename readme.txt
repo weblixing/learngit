@@ -4,5 +4,5 @@ git has a mutable index called stage
 git tracks changes 
 Create a new branch is quick and simple
 Create a new branch is very simple
-
+Create a new branch and Add merge
 
